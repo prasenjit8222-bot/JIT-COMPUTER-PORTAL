@@ -1,0 +1,6 @@
+{
+  "name": "JIT Computer Training Institute",
+  "description": "Institute Management and Student Portal for JIT Computer Training Institute featuring admission approvals, day-only schedules, MCQ exams with 3-month mandatory locks, SIM SMS fee reminders, and auto-generated certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
